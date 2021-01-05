@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+
+
+#
+source-code/python3-source-code-analysis
+
